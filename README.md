@@ -14,3 +14,16 @@
 | 認股權證  | Derivative warrant   |
 | 認購權證  | Call warrant         |
 | 認沽權證  | Put warrant          |
+
+=======
+
+for put warrant
+
+| Asset Price Movement                   | Impact on Put Warrant Holder      |
+|----------------------------------------|-----------------------------------|
+| Price falls below strike price         | Profit ("in the money")           |
+| Price above strike price at expiry     | Warrant expires worthless (loss)  |
+| Price rises before expiry              | Value drops, potential to lose part/all of premium paid |
+
+
+Buying a put warrant is like betting the asset price will fall. If it rises instead, you lose (at worst, all the premium paid for the warrant).
