@@ -15,7 +15,7 @@
 | 認購權證  | Call warrant         |
 | 認沽權證  | Put warrant          |
 
-=======
+---
 
 for put warrant
 
@@ -27,3 +27,14 @@ for put warrant
 
 
 Buying a put warrant is like betting the asset price will fall. If it rises instead, you lose (at worst, all the premium paid for the warrant).
+
+---
+
+for warrant 
+
+| Term       | Meaning                                                       |
+|------------|---------------------------------------------------------------|
+| Board Lot  | Minimum quantity of warrants per trade (e.g. 500 warrants)    |
+| Conversion Ratio | Number of underlying shares each warrant represents     |
+
+=======
